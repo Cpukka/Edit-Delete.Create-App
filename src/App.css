@@ -1,0 +1,65 @@
+.app-container {
+  display: grid;
+  direction: column;
+  padding: 3rem;
+  grid-gap: 20px;
+  box-sizing: border-box;
+  width: 730px;
+  position:  relative ;
+
+  
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  border: 1px solid navy;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+th {
+  background-color: rgb (217,201, 250);
+  color: blue;
+}
+td {
+  background-color: rgb(205, 235, 253);
+}
+form {
+  position: relative;
+  display: flex;
+  gap: 5px;
+  display: center;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+form * {
+  font-size: 22px;
+  justify-content: center;
+}
+h2 {
+  color: rgb(55, 0, 255);
+  margin: 0;
+  padding: 0;
+}
+button{
+  color: blue;
+  font-weight: bold;
+}
+.heading1{
+  text-align: center;
+  color: blue;
+  margin: 0;
+}
+
+
+
+
+
+ 
+  
+
+
+

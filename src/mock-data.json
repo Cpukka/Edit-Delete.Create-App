@@ -1,0 +1,39 @@
+[{
+    "id": 1,
+    "name": "Chimaobi Uboegbu",
+    "address": "No 3, Queen Amina Street",
+    "phoneNumber": "08035950927",
+    "email": "Chimaobiu@yahoo.com"
+    
+},
+ {
+    "id": 2,
+    "name": "Emmanuel Uboegbu",
+    "address": "Area 10, Garki",
+    "phoneNumber": "08051699966",
+    "email": "Cpukka2@gmail.com"
+},
+
+{
+    
+    "id": 3,
+    "name": "Nwoke Unanka",
+    "address": "Umueze Amaigbo",
+    "phoneNumber": "0803358976",
+    "email": "Nwoke@gmail.com"
+},
+{
+    "id": 4,
+    "name": "Amaka Osondu",
+    "address": "Mberi",
+    "phoneNumber": "08011776653",
+    "email": "blessing@gmail.com"  
+},
+{
+    "id": 5,
+    "name": "jethro Eze",
+    "address": "Ebonyi South",
+    "phoneNumber": "0803358976",
+    "email": "Nwoke@gmail.com"
+}
+]
